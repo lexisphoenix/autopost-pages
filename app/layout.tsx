@@ -4,10 +4,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'AutoPost - Términos y Privacidad',
   description: 'Términos de servicio y política de privacidad de AutoPost',
-  // Para verificación de Google Search Console, agrega el meta tag aquí:
-  // verification: {
-  //   google: 'tu-codigo-de-verificacion-aqui',
-  // },
+  verification: {
+    google: 'HrQF8-DzCRkdFzP6EnLexs6dh8RE2TCVWmxrNPDXQuU',
+  },
 }
 
 export default function RootLayout({
